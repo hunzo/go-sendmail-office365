@@ -1,0 +1,1 @@
+# GO Sendmail office365 example
